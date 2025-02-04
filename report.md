@@ -16,7 +16,8 @@
 
 ### Код проекта  
 ```python
-print("Привет, GitHub Pages!")```
+print("Привет, GitHub Pages!")
+```
  
 
 ![скриншот работы сайта](images/Screenshot_11.png)
