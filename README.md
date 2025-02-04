@@ -1,6 +1,6 @@
 # 🚀 Название проекта  
 
-![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)  
+![GitHub Pages](https://fakiray.github.io/Gonevo/)  
 *Описание проекта в одном-двух предложениях.*  
 
 📌 [Перейти к отчёту](report.md) | 🌍 [Сайт на GitHub Pages](https://твой-юзернейм.github.io/название-репозитория/)  
